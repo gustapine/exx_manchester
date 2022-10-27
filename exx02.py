@@ -6,7 +6,7 @@ import pandas as pd
 
 #define dataframe and column values
 df = pd.DataFrame({
-   'custodia' : [60.000,
+   'custodia' : [60000.00,
  50000.00,
  123000.00, 
  800500.00, 
